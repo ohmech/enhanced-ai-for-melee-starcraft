@@ -1,3 +1,3 @@
 # enhanced-ai-for-melee-starcraft
-backup
+source
 https://cafe.naver.com/edac/104130
